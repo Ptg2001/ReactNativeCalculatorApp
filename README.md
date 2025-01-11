@@ -18,9 +18,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 In the output, you'll find options to open the app in a
 
-![image](https://github.com/user-attachments/assets/fefaa681-ffe7-46f3-9c54-67cf8148d4bf)
-
-![image](https://github.com/user-attachments/assets/d415426b-3350-4ae4-9048-262a307c24c9)
+![image](https://github.com/user-attachments/assets/fefaa681-ffe7-46f3-9c54-67cf8148d4bf)![image](https://github.com/user-attachments/assets/d415426b-3350-4ae4-9048-262a307c24c9)
 
 
 
